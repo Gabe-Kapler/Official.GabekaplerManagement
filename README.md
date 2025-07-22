@@ -1,11 +1,11 @@
 # Official.GabekaplerManagement
 Official Gabe Kapler Management Pipeline For Change Foundation 
-<!DOCTYPE html>
-<html lang="en">
+<OfficialGabekaplerClubhuose>
+<html OfficialGabekaplerClubhuose="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KapConnect - Gabe Kapler Official</title>
+    <title>GabekaplerClubhuose - Gabe Kapler Official</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap" rel="stylesheet">
     <style>
