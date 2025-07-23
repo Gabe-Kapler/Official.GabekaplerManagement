@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gabe Kapler Clubhouse</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Gabe Kapler Clubhouse</h1>
+        <p>Join us for exciting opportunities and individual awards!</p>
+    </header>
+    <nav>
+        <a href="#memberships">Memberships</a>
+        <a href="#wallet">Account Wallet</a>
+        <a href="#livestream">Livestreams</a>
+        <a href="#donations">Donations</a>
+        <a href="#community">Join the Community</a>
+    </nav>
+    <main class="container">
+        <section id="memberships" class="section">
+            <h2>Memberships</h2>
+            <p>Explore exclusive memberships and enjoy unique benefits tailored just for you!</p>
+        </section>
+
+        <section id="wallet" class="section">
+            <h2>Account Wallet</h2>
+            <p>Manage your account wallet securely and easily to access all features.</p>
+        </section>
+
+        <section id="livestream" class="section">
+            <h2>Livestream</h2>
+            <p>Don't miss out on our live events! Stay connected and enjoy the action.</p>
+        </section>
+
+        <section id="donations" class="section">
+            <h2>Foundation for Donations</h2>
+            <p>Support our initiatives with your generous contributions. Together, we make a difference.</p>
+        </section>
+
+        <section id="community" class="section">
+            <h2>Join the Community</h2>
+            <p>Be a part of our vibrant community. Opportunities and awards await you!</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Gabe Kapler Clubhouse. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
