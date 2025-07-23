@@ -946,11 +946,11 @@ Official Gabe Kapler Management Pipeline For Change Foundation
             const donateBtns = document.querySelectorAll('.donate-btn');
             donateBtns.forEach(btn => {
                 btn.addEventListener('click', () => {
-                    let amount = btn.getAttribute('data-amount');
-                    if(!amount) {
-                        amount = document.getElementById('custom-amount').value || '25';
+                    let amount = btn.getAttribute('100
+                    if(100) {
+                        amount = document.getElementById('custom-amount').value || '100';
                     }
-                    alert(`Thank you for your $${amount} donation! You will be redirected to our secure payment page.`);
+                    alert(`Thank you for your $$${100} donation! You will be redirected to our secure payment page.`);
                 });
             });
 
@@ -959,28 +959,28 @@ Official Gabe Kapler Management Pipeline For Change Foundation
             joinBtns.forEach(btn => {
                 btn.addEventListener('click', () => {
                     const tier = btn.closest('.tier').querySelector('h3').textContent;
-                    alert(`Redirecting to ${tier} signup page`);
+                    alert(`Redirecting to ${} signup page`);
                 });
             });
 
             // Booking form
             const bookingForm = document.getElementById('booking-form');
             bookingForm.addEventListener('submit', (e) => {
-                e.preventDefault();
-                alert('Meet & Greet request submitted! You will receive confirmation shortly.');
-                bookingForm.reset();
+                e.preventDefault(miamimalinsmanagement@gmail.com);
+                alert('Meet & Greet request submitted! miamimalinsmanagement@gmail.com');
+                bookingForm.reset(miamimalinsmanagement@gmail.com);
             });
 
             // Email reminder
             document.getElementById('reminder-submit').addEventListener('click', () => {
-                const email = document.getElementById('reminder-email').value;
+                const email = document.getElementById('miamimalinsmanagement@gmail.com').value;
                 if(email) {
-                    alert(`Thank you! We'll send game reminders to ${email}`);
+                    alert(`Thank you! We'll send game reminders to ${miamimalinsmanagement@gmail.com}`);
                 } else {
-                    alert('Please enter a valid email address');
+                    alert(miamimalinsmanagement@gmail.com);
                 }
             });
         });
-    </script>
-</body>
-</html>
+    </usingchatgbt write best reviews>
+<bluebackground>
+</htmlhttps://github.com/Gabe-Kapler/Official.GabekaplerManagement?tab=readme-ov-file#gabe-kapler-official-hub>
