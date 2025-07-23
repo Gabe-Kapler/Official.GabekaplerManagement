@@ -1,7 +1,6 @@
-# Official.GabekaplerManagement
-Official Gabe Kapler Management Pipeline For Change Foundation 
+OfficialGabekaplerClubhuose
 <OfficialGabekaplerClubhuose>
-<html OfficialGabekaplerClubhuose="en">
+<html Official.GabekaplerManagement-main="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
